@@ -1,0 +1,73 @@
+# ============================
+# Arquivos de banco de dados
+# ============================
+*.db
+*.sqlite
+*.sqlite3
+*.sqlitedb
+*.mdb
+*.accdb
+*.bak
+*.dump
+
+# ============================
+# Arquivos binários e de mídia
+# ============================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.bmp
+*.tiff
+*.ico
+
+# ============================
+# PDFs e documentos
+# ============================
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+
+# ============================
+# Arquivos temporários do sistema
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+env/
+.venv/
+
+# ============================
+# Jupyter
+# ============================
+.ipynb_checkpoints/
+
+# ============================
+# Logs
+# ============================
+*.log
+
+# ============================
+# Cache em geral
+# ============================
+*.cache/
+cache/
+
