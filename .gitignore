@@ -9,6 +9,7 @@
 *.accdb
 *.bak
 *.dump
+*.csv
 
 # =======================================
 # FIGURAS (apenas geradas pelo pipeline)
