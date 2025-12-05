@@ -10,6 +10,7 @@
 *.bak
 *.dump
 *.csv
+*.parquet
 
 # =======================================
 # FIGURAS (apenas geradas pelo pipeline)
@@ -93,6 +94,19 @@ cache/
 *.synctex.gz
 *.fdb_latexmk
 *.fls
+*.acn
+*.alg
+*.bbl
+*.blg
+*.glo
+*.glsdefs
+*.ilg
+*.acr
+*.glg
+*.gls
+*.idx
+*.ind
+*.ist
 
 # =======================================
 # IDEs
